@@ -1,1 +1,4 @@
 
+<Version: 0.1>
+/data/test.zip https://ru.wordpress.org/latest-ru_RU.zip
+<End of Version>
